@@ -36,7 +36,7 @@ Scatch is a full-stack e-commerce platform designed for selling bags. The websit
 - Product Browsing: Users can browse through a variety of bags, view details, and add items to the cart.
 
 ## File Structure
-
+`
 scatchFullStack/
 ├── public/              # Static files (CSS, images, etc.)
 ├── routes/              # Application routes
@@ -46,7 +46,7 @@ scatchFullStack/
 ├── middleware/          # Custom middleware (auth, error handling)
 ├── config/              # Configuration files (DB connection, etc.)
 └── app.js               # Main application entry point
-
+`
 
 ## License
 This project is licensed under the MIT License.
